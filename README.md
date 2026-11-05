@@ -1,6 +1,7 @@
 # Nexora Fraud Detection
 
 An Excel-based case study on prioritizing transactions for manual fraud review. Nexora can review **up to 40 alerts per day**. The business question is which transactions to review first to catch fraud while staying within that limit.
+<img width="1193" height="673" alt="image" src="https://github.com/user-attachments/assets/021a13b6-3cee-470e-8748-569b691bd81f" />
 
 ## Executive recommendation
 
