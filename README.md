@@ -3,6 +3,21 @@
 An Excel-based case study on prioritizing transactions for manual fraud review. Nexora can review **up to 40 alerts per day**. The business question is which transactions to review first to catch fraud while staying within that limit.
 <img width="1193" height="672" alt="image" src="https://github.com/user-attachments/assets/20460ae1-64cb-46f9-8de7-fd5dfce0f4c9" />
 
+## 📊 Explore the Fraud Analysis
+
+This project includes an Excel-based fraud investigation using a synthetic transaction dataset. The analysis explores suspicious transaction patterns, account behavior, device sharing, and potential fraud indicators to support risk-based decision-making.
+
+**Explore the analysis and executive deliverables:**
+
+| Resource | Description | Access |
+|---|---|---|
+| 📊 **Interactive Fraud Analysis** | Explore the analytical workbook, calculations, and transaction-level insights in Google Sheets. | [Open Google Sheets](https://docs.google.com/spreadsheets/d/1ar3YrQjsrO1NUXPqPVcAdeN0y_QxKXvr/edit?usp=sharing) |
+| 📑 **Executive Presentation** | Review the investigation findings, solution prioritization, and strategic recommendations. | [View PDF](presentation/Nexora_Fraud_Detection_Executive_Presentation.pdf) |
+| 📈 **Excel Analysis Workbook** | Access the Excel workbook containing the analytical calculations and supporting analysis. | [Download Excel](analysis/Nexora_Fraud_Validation.xlsx) |
+| 🗂️ **Raw Dataset** | Original synthetic fraud transaction dataset used in the investigation. | [View Dataset](data/nexora_fraude_fictitious.csv) |
+
+*Note: The dataset is synthetic and intended for portfolio and educational purposes. The Google Sheets version provides browser-based access; some Excel-specific features, such as PivotTables, may behave differently.*
+
 
 ## Executive recommendation
 
@@ -41,5 +56,9 @@ The results describe a four-day holdout from simulated data. A live pilot would 
 
 ## Project files
 
-- [Executive presentation](./Nexora_Fraud_Detection_Executive_Presentation.pptx)
-- [Excel analysis and transaction data](./Nexora_Fraud_Validation.xlsx)
+## Executive Presentation
+
+[View Executive Presentation (PDF)](presentation/Nexora_Fraud_Detection_Executive_Presentation.pdf)
+
+[Download PowerPoint Presentation](presentation/Nexora_Fraud_Detection_Executive_Presentation.pptx)
+
